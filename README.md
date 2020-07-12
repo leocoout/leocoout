@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@LeocooutBR-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LeocooutBR)](https://twitter.com/LeocooutBR) 
 ---
 
-<h2> Hi there </h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 I am from São Paulo, Brazil. I love UI Motion, cats and programming.
 

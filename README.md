@@ -11,7 +11,7 @@
 
 I am from São Paulo, Brazil. I love UI Motion, cats and programming.
 
-• +3 years engineering iOS applications using Swift language. Knowledge of SOLID, KISS and DRY principles, software architecture, design patterns and unit testing skills. Deep understanding of writing readable and maintable code following defined apple guidelines that also applies to Appstore publishment workflows. Experience building pixel-perfect interactive components.
+• Experience engineering iOS applications using Swift language. Knowledge of SOLID, KISS and DRY principles, software architecture, design patterns and unit testing skills. Deep understanding of writing readable and maintable code following defined apple guidelines that also applies to Appstore publishment workflows. Experience building pixel-perfect interactive components.
 
 • UI and UI Motion skills to develop high quality animations for mobile applications. 
 

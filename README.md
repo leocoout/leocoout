@@ -9,7 +9,7 @@
 
 <h2> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-I am from São Paulo, Brazil. I love UI Motion, cats and programming.
+I am from São Paulo, Brazil and I currently work at iFood. I love UI Motion, cats and programming.
 
 • Experience engineering iOS applications using Swift language. Knowledge of SOLID, KISS and DRY principles, software architecture, design patterns and unit testing skills. Deep understanding of writing readable and maintable code following defined apple guidelines that also applies to Appstore publishment workflows. Experience building pixel-perfect interactive components.
 

@@ -15,7 +15,7 @@ I am from São Paulo, Brazil. I love UI Motion, cats and programming.
 
 • UI and UI Motion skills to develop high quality animations for mobile applications. 
 
-For More information visit my resume [here](https://resume.io/r/5deJGPq3E)
+For More information visit my [LinkedIn page](https://www.linkedin.com/in/leocoout/)
 
 ## 📖 Articles
-* Latest Article: [How to improve your app experience using Animations (PT-BR)](https://medium.com/@leocoout/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5?sk=baab9addeb70bf7d0f71c8b3d6bcba54)
+* Latest Article: [How to improve your app experience using Animations 🇧🇷](https://medium.com/@leocoout/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5?sk=baab9addeb70bf7d0f71c8b3d6bcba54)

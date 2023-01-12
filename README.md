@@ -9,18 +9,20 @@
 
 <h2> Hi there </h2>
 
-I'm from São Paulo, Brazil and I currently work at iFood. "UI Motion, cats, programming and burgers" define me.
+I'm from São Paulo, Brazil and work remotely with Moises, empowering people's creative potential through music and AI.
 
-• Experience developing large-scale iOS applications with designers, PMs, and other engineers always trying to build beautiful interfaces, and deliver the best results for the company and users. Usage of clean architecture, design patterns, avanced unit test techniques, and other programming principles to write decoupled, readable, maintainable, and scalable code. Knowledge of provisioning profiles and release cycle.
+Passionate iOS Engineer with 5+ years of experience developing small to large-scale iOS apps with the product team and other engineers always trying to build beautiful interfaces, deliver the best results for the company, and a unique experience for the users. Already worked with fintech/banking, food delivery, and music industries
 
-• I really like to share my knowledge through Medium articles and mentoring; Lead 2 Devsprints on DevPass
-• UI and UI Motion skills to develop high-quality animations for mobile applications;
+Proficient in Swift, Design Patterns, Unit Testing, Scrum, Xcode, MVVM, VIPER, and VIP.
+
+I'm a Tech lead/mentor at Devpass, a platform that connects mentors and mentees from different levels of experience; I'm a writer on Medium, with articles published on big blogs about Unit Tests, Architecture, animations, and high UI and Motion skills to develop high-quality animations for mobile applications.
 
 For More information visit my [LinkedIn page](https://www.linkedin.com/in/leocoout/)
 
 ## 📖 Articles
 
-* Latest Article - [Software Design Patterns: Factories Are Not Builders 🇺🇸](https://betterprogramming.pub/software-design-patterns-factories-are-not-builders-dc4c1297de8f)
+* Latest Article - [Building iFood's Amazing iOS Cart Experience 🇺🇸](https://medium.com/ifood-engineering/building-ifoods-amazing-ios-cart-experience-b281c97b471)
+* [Software Design Patterns: Factories Are Not Builders 🇺🇸](https://betterprogramming.pub/software-design-patterns-factories-are-not-builders-dc4c1297de8f)
 * [Unit Testing SDKs on iOS 🇺🇸](https://betterprogramming.pub/unit-test-static-and-singleton-frameworks-on-ios-df4e7d77a7b8)
 * [Become a Unit Test Master 🇺🇸](https://leocoout.medium.com/become-a-unit-test-master-84f4fa276deb)
 * [Melhorando a experiência do seu app com animações — iOS 🇧🇷](https://medium.com/@leocoout/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5?sk=baab9addeb70bf7d0f71c8b3d6bcba54)

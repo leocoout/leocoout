@@ -2,7 +2,7 @@
 <h1> Leonardo (Leo) Santos </h1>
 <h3> Lead iOS Engineer & Mentor </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-leocoout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leocoout/)](https://www.linkedin.com/in/leocoout/) 
+[![Linkedin Badge](https://img.shields.io/badge/-leocoout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leocout/)](https://www.linkedin.com/in/leocout/) 
 [![Medium Badge](https://img.shields.io/badge/-@leocoout-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@leocoout/)](https://medium.com/@leocoout/)
 [![ADPList Badge](https://img.shields.io/badge/-ADPList-A020F0?style=flat-square&link=https://adplist.org/mentors/leonardo-santos-Ir2N)]([https://medium.com/@leocoout/](https://adplist.org/mentors/leonardo-santos-Ir2N))
 ---
@@ -13,7 +13,7 @@ I am an iOS Engineer proficient in Swift, passionate about using technology to s
 
 C1 English for communication with cross-functional teams and mentor of more than 30 developers.
 
-For more information visit my [LinkedIn page](https://www.linkedin.com/in/leocoout/)
+For more information visit my [LinkedIn page](https://www.linkedin.com/in/leocout/)
 
 ## 🤝 Book a mentorship
 For tips for searching iOS Engineering jobs abroad, especially in Asia and general iOS mentorship, book a time [here](https://adplist.org/mentors/leonardo-santos-Ir2N)

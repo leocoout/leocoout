@@ -1,23 +1,22 @@
 
-<h1> Leonardo Santos </h1>
-<h3> iOS Software Engineer </h3>
+<h1> Leonardo (Leo) Santos </h1>
+<h3> Lead iOS Engineer & Mentor </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-leocoout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leocoout/)](https://www.linkedin.com/in/leocoout/) 
 [![Medium Badge](https://img.shields.io/badge/-@leocoout-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@leocoout/)](https://medium.com/@leocoout/)
-[![Twitter Badge](https://img.shields.io/badge/-@leocooout-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leocooout)](https://twitter.com/leocooout) 
+[![ADPList Badge](https://img.shields.io/badge/-ADPList-A020F0?style=flat-square&link=https://adplist.org/mentors/leonardo-santos-Ir2N)]([https://medium.com/@leocoout/](https://adplist.org/mentors/leonardo-santos-Ir2N))
 ---
 
-<h2> Hi there </h2>
+<h3> Hi there </h3>
 
-I'm from São Paulo, Brazil and work remotely with Moises, empowering people's creative potential through music and AI.
+I am an iOS Engineer proficient in Swift, passionate about using technology to solve real-world problems, and experienced in building and maintaining complex software solutions as an individual contributor and as a Lead for large-scale iOS apps. Proven leadership and business strategy implementation from former engineering roles.
 
-Passionate iOS Engineer with 5+ years of experience developing small to large-scale iOS apps with the product team and other engineers always trying to build beautiful interfaces, deliver the best results for the company, and a unique experience for the users. Already worked with fintech/banking, food delivery, and music industries
+C1 English for communication with cross-functional teams and mentor of more than 30 developers.
 
-Proficient in Swift, Design Patterns, Unit Testing, Scrum, Xcode, MVVM, VIPER, and VIP.
+For more information visit my [LinkedIn page](https://www.linkedin.com/in/leocoout/)
 
-I'm a Tech lead/mentor at Devpass, a platform that connects mentors and mentees from different levels of experience; I'm a writer on Medium, with articles published on big blogs about Unit Tests, Architecture, animations, and high UI and Motion skills to develop high-quality animations for mobile applications.
-
-For More information visit my [LinkedIn page](https://www.linkedin.com/in/leocoout/)
+## 🤝 Book a mentorship
+For tips for searching iOS Engineering jobs abroad, especially in Asia and general iOS mentorship, book a time [here](https://adplist.org/mentors/leonardo-santos-Ir2N)
 
 ## 📖 Articles
 

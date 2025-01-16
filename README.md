@@ -11,16 +11,17 @@
 
 I am an iOS Engineer proficient in Swift, passionate about using technology to solve real-world problems, and experienced in building and maintaining complex software solutions as an individual contributor and as a Lead for large-scale iOS apps. Proven leadership and business strategy implementation from former engineering roles.
 
-C1 English for communication with cross-functional teams and mentor of more than 30 developers.
+C1 English for communication with cross-functional teams and mentor of more than 60 developers.
 
 For more information visit my [LinkedIn page](https://www.linkedin.com/in/leocout/)
 
-## 🤝 Book a mentorship
-For tips for searching iOS Engineering jobs abroad, especially in Asia and general iOS mentorship, book a time [here](https://adplist.org/mentors/leonardo-santos-Ir2N)
+## 🤝 Book a mentorship [NOT ACCEPTING BOOKINGS]
+For tips for searching iOS Engineering jobs abroad, especially in Asia, and general iOS mentorship, book a time [here](https://adplist.org/mentors/leonardo-santos-Ir2N)
 
 ## 📖 Articles
 
-* Latest Article - [Building iFood's Amazing iOS Cart Experience 🇺🇸](https://medium.com/ifood-engineering/building-ifoods-amazing-ios-cart-experience-b281c97b471)
+* Latest Article - [Hello Swift Testing, Goodbye XCTest](https://leocoout.medium.com/welcome-swift-testing-goodbye-xctest-7501b7a5b304)
+* [Building iFood's Amazing iOS Cart Experience 🇺🇸](https://medium.com/ifood-engineering/building-ifoods-amazing-ios-cart-experience-b281c97b471)
 * [Software Design Patterns: Factories Are Not Builders 🇺🇸](https://betterprogramming.pub/software-design-patterns-factories-are-not-builders-dc4c1297de8f)
 * [Unit Testing SDKs on iOS 🇺🇸](https://betterprogramming.pub/unit-test-static-and-singleton-frameworks-on-ios-df4e7d77a7b8)
 * [Become a Unit Test Master 🇺🇸](https://leocoout.medium.com/become-a-unit-test-master-84f4fa276deb)

@@ -1,6 +1,6 @@
 
 <h1> Leonardo (Leo) Santos </h1>
-<h3> Lead iOS Engineer & Mentor </h3>
+<h3> Senior iOS Engineer & Mentor </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-leocoout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leocout/)](https://www.linkedin.com/in/leocout/) 
 [![Medium Badge](https://img.shields.io/badge/-@leocoout-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@leocoout/)](https://medium.com/@leocoout/)
@@ -9,7 +9,7 @@
 
 <h3> Hi there </h3>
 
-I am an iOS Engineer proficient in Swift, passionate about using technology to solve real-world problems, and experienced in building and maintaining complex software solutions as an individual contributor and as a Lead for large-scale iOS apps. Proven leadership and business strategy implementation from former engineering roles.
+I am an iOS Engineer proficient in Swift, currently working at TikTok, passionate about using technology to solve large-scale real-world problems, and experienced in building and maintaining complex software solutions as an individual contributor and as a Lead. Proven leadership and business strategy implementation from former engineering roles. 
 
 C1 English for communication with cross-functional teams and mentor of more than 60 developers.
 
